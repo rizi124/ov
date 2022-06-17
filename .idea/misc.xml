@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/drawable/ic_grocery.xml" value="0.1365" />
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/drawable/ic_image__1_.xml" value="0.1365" />
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/drawable/ic_jone.xml" value="0.1365" />
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/drawable/ic_price.xml" value="0.1365" />
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/drawable/ic_round.xml" value="0.1365" />
+        <entry key="..\:/Users/HP/StudioProjects/ov/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1065" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_dude.xml" value="0.445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_jone.xml" value="0.445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1065" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_price.xml" value="0.1065" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_rectangle_1887.xml" value="0.1065" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_rectangle_98.xml" value="0.1065" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/drawable/ic_round.xml" value="0.445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/layout/activity_main.xml" value="0.5395833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2385" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ov/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1065" />
+        <entry key="..\:/ov/app/src/main/res/layout/activity_main.xml" value="0.11764705882352941" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
